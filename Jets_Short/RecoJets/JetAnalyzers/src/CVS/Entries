@@ -1,0 +1,23 @@
+/CMSDAS11DijetAnalyzer.cc/1.9/Thu Jul 14 14:12:11 2011//TV00-05-cmsdas2013-02
+/CMSDAS11DijetTestAnalyzer.cc/1.9/Thu Jul 14 14:12:11 2011//TV00-05-cmsdas2013-02
+/CMSDAS12ThreejetTestAnalyzer.cc/1.1.2.3/Wed Jan 25 11:23:38 2012//TV00-05-cmsdas2013-02
+/CalcTopMassExample.cc/1.3/Sat Jan 23 20:42:56 2010//TV00-05-cmsdas2013-02
+/CaloTowersExample.cc/1.3/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+/DijetMass.cc/1.8/Thu Feb 25 00:32:16 2010//TV00-05-cmsdas2013-02
+/DijetRatio.cc/1.6/Wed Jul 21 04:23:25 2010//TV00-05-cmsdas2013-02
+/FlavorJetCorrectionExample.cc/1.4/Tue Mar 16 22:47:24 2010//TV00-05-cmsdas2013-02
+/JetAnaPythia.cc/1.9/Thu Feb 25 00:32:18 2010//TV00-05-cmsdas2013-02
+/JetCorExample.cc/1.3/Thu Feb 25 00:32:19 2010//TV00-05-cmsdas2013-02
+/JetCorrectionsOnTheFly.cc/1.1.2.2/Wed Dec  7 20:40:45 2011//TV00-05-cmsdas2013-02
+/JetPlotsExample.cc/1.11.2.2/Mon Dec 19 01:22:48 2011//TV00-05-cmsdas2013-02
+/JetSubstructurePlotsExample.cc/1.1.2.5/Thu Jan  3 21:11:43 2013//TV00-05-cmsdas2013-02
+/JetToDigiDump.cc/1.7/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+/JetValidation.cc/1.11/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+/PartonJetCorrectionExample.cc/1.3/Tue Mar 16 22:47:24 2010//TV00-05-cmsdas2013-02
+/SimpleJetDump.cc/1.3/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+/myFastSimVal.cc/1.7/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+/myFilter.cc/1.19/Wed Mar 17 18:46:30 2010//TV00-05-cmsdas2013-02
+/myJetAna.cc/1.25/Wed Mar 17 19:21:42 2010//TV00-05-cmsdas2013-02
+/myRawAna.cc/1.2/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+/ptHatFilter.cc/1.4/Tue Jan 19 14:37:03 2010//TV00-05-cmsdas2013-02
+D
