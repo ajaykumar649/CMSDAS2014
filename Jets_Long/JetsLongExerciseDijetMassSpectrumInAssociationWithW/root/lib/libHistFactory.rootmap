@@ -1,0 +1,5 @@
+Library.PiecewiseInterpolation:             libHistFactory.so libRooFit.so libRooFitCore.so libTree.so libRIO.so libHist.so libMatrix.so libMathCore.so libMinuit.so libFoam.so libGraf.so libGpad.so libRooStats.so libXMLParser.so
+Library.RooStats@@HistFactory@@LinInterpVar: libHistFactory.so libRooFit.so libRooFitCore.so libTree.so libRIO.so libHist.so libMatrix.so libMathCore.so libMinuit.so libFoam.so libGraf.so libGpad.so libRooStats.so libXMLParser.so
+Library.RooStats@@HistFactory@@EstimateSummary: libHistFactory.so libRooFit.so libRooFitCore.so libTree.so libRIO.so libHist.so libMatrix.so libMathCore.so libMinuit.so libFoam.so libGraf.so libGpad.so libRooStats.so libXMLParser.so
+Library.RooStats@@HistFactory@@HistoToWorkspaceFactory: libHistFactory.so libRooFit.so libRooFitCore.so libTree.so libRIO.so libHist.so libMatrix.so libMathCore.so libMinuit.so libFoam.so libGraf.so libGpad.so libRooStats.so libXMLParser.so
+Library.RooStats@@HistFactory@@HistoToWorkspaceFactoryFast: libHistFactory.so libRooFit.so libRooFitCore.so libTree.so libRIO.so libHist.so libMatrix.so libMathCore.so libMinuit.so libFoam.so libGraf.so libGpad.so libRooStats.so libXMLParser.so

@@ -1,0 +1,60 @@
+Checking for source directory
+Result: /uscms_data/d3/ajay/FNAL_CMSDAS14/CMSDAS_Jets_Long/CMSSW_4_2_8/src/JetsLongExerciseDijetMassSpectrumInAssociationWithW/root
+Invoked on cmslpc29.fnal.gov
+   with Linux cmslpc29.fnal.gov 2.6.18-371.1.2.el5 #1 SMP Tue Oct 22 11:40:34 CDT 2013 x86_64 x86_64 x86_64 GNU/Linux
+   at Fri Jan  3 15:21:51 CST 2014:
+   ./configure
+arch=linux
+chip=x86_64
+rele=2.6.18-371.1.2.el5
+linuxx8664gcc
+Will check 64bit libraries
+Checking for GNU Make version >= 3.80
+Result: ok
+Checking for C compiler
+Result: gcc
+Checking for C++ compiler
+Result: g++
+Checking for linker (LD)
+Result: g++
+Checking for F77 compiler
+Result: gfortran
+Checking for libX11 ... 
+libraries to check for:  libX11.so libX11.sl libX11.dylib libX11.dll.a  libX11.a libX11.lib libX11
+ Checking in directories /usr/lib64 /usr/lib for  libX11.so libX11.sl libX11.dylib libX11.dll.a  libX11.a libX11.lib libX11
+  Checking for library libX11.so in directory /usr/lib64
+   Checking /usr/lib64/libX11.so
+   Found file /usr/lib64/libX11.so
+Checking if /usr/lib64/libX11.so is a 64-bit library
+ file -L /usr/lib64/libX11.so | grep '64-bit'
+ result: 1
+ is a 64bit library
+Checking for X11/Xlib.h ... 
+ Checking in directory /usr/include
+  Checking for X11/Xlib.h in directory /usr/include
+  /usr/include/X11/Xlib.h is read-able
+Checking for X11/xpm.h ... 
+ Checking in directory /usr/include
+  Checking for X11/xpm.h in directory /usr/include
+  /usr/include/X11/xpm.h is read-able
+Checking for X11/Xft/Xft.h ... 
+ Checking in directory /usr/include
+  Checking for X11/Xft/Xft.h in directory /usr/include
+ Checking in directory /usr/X11R6/include
+  Checking for X11/Xft/Xft.h in directory /usr/X11R6/include
+ Checking in directory /usr/include/X11
+  Checking for X11/Xft/Xft.h in directory /usr/include/X11
+ Checking in directory /usr/openwin/include
+  Checking for X11/Xft/Xft.h in directory /usr/openwin/include
+ Checking in directory /usr/local/include
+  Checking for X11/Xft/Xft.h in directory /usr/local/include
+ Checking in directory /usr/local/include/X11
+  Checking for X11/Xft/Xft.h in directory /usr/local/include/X11
+ Checking in directory /usr/local/X11R6/include
+  Checking for X11/Xft/Xft.h in directory /usr/local/X11R6/include
+ Checking in directory /usr/X11/include
+  Checking for X11/Xft/Xft.h in directory /usr/X11/include
+ Checking in directory /usr/include/X11R5
+  Checking for X11/Xft/Xft.h in directory /usr/include/X11R5
+Result: configure: Xft headers MUST be installed
+Result: See http://root.cern.ch/drupal/content/build-prerequisites

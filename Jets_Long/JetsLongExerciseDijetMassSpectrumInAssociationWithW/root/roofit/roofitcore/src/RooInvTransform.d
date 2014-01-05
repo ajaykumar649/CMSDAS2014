@@ -1,0 +1,1 @@
+  roofit/roofitcore/src/RooInvTransform.o roofit/roofitcore/src/RooInvTransform.d: $(wildcard include/RooFit.h include/RConfig.h include/RVersion.h include/RooInvTransform.h include/RooAbsFunc.h include/Rtypes.h include/DllImport.h include/Rtypeinfo.h include/snprintf.h include/strlcpy.h include/TGenericClassInfo.h include/TSchemaHelper.h include/Riostream.h)
